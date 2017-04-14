@@ -2,6 +2,14 @@
 
 <p align="center"><img src="./images/42.gif"></p>
 
+![plane](images/plane.png "plane")
+
+![42](images/42.png "42")
+
+![plane](images/plane2.png "plane")
+
+![rock](images/rock.jpg "rock")
+
 ## Usage
 
 Install OpenGL, glut, glfw3 and SOIL, then `make` and `./scop objects/*.object`
