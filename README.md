@@ -2,8 +2,6 @@
 
 <p align="center"><img src="./images/42.gif"></p>
 
-Toy 3D engine written in C
-
 ## Usage
 
 Install OpenGL, glut, glfw3 and SOIL, then `make` and `./scop objects/*.object`
@@ -28,5 +26,3 @@ distance between eyes (stereo) :  -/+
 move convergence point (stereo) : {/}
 exit :                            ESC
 ```
-
-## Images

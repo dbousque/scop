@@ -15,8 +15,8 @@
 void	setup_conf(void)
 {
 	g_conf.lines = 0;
-	g_conf.win_width = 1200;
-	g_conf.win_height = 850;
+	g_conf.win_width = 1400;
+	g_conf.win_height = 900;
 	g_conf.obj_ind = 0;
 	g_conf.normal_mode = 0;
 	g_conf.texture_strength = 0.0;
