@@ -1,0 +1,5 @@
+obj objects/ressources/bunny.obj
+diffuse objects/ressources/bunny.diff.png
+normal objects/ressources/bunny.normal.png
+specular objects/ressources/bunny.spec.png
+spec_strength 5

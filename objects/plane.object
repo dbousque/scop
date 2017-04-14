@@ -1,0 +1,5 @@
+obj objects/ressources/plane.obj
+diffuse objects/ressources/plane.diff.png
+specular objects/ressources/plane.specular.png
+normal objects/ressources/plane.normal.png
+spec_strength 3

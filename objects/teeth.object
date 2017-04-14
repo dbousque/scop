@@ -1,0 +1,5 @@
+obj objects/ressources/teeth.obj
+diffuse objects/ressources/teeth.diff.png
+normal objects/ressources/teeth.normal.png
+specular objects/ressources/teeth.spec.png
+spec_strength 10
