@@ -1,3 +1,7 @@
-h1 scop
+# Scop
 
-![42](images/42.gif "42")
+#### Toy 3D engine written in C
+
+<p align="center">
+  <img src="./images/42.gif" style="margin-left: 100px">
+</p>
